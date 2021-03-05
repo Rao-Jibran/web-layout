@@ -1,0 +1,42 @@
+
+#navbar1{
+    display: flex;
+    background-color:whitesmoke ;
+justify-content:space-around ;
+padding-left: 80px;
+padding-top: 8px;
+}
+.eleH{
+    padding-top: 20px;
+     color:lightgreen;
+    margin-left: 200px;
+}
+.ele{
+     padding-top: 20px;
+     color: gray;
+ }
+.eleA{
+     padding-top: 20px;
+     color: gray;
+    margin-right: 120px;
+}
+.cart{
+    height: 27px;
+    width: 25px;
+    padding-top: 30px;  
+}
+.bigcart{
+    text-align:right;
+    margin-right: 300px;
+  float: right;
+  
+}
+#text{
+    float: left;
+    padding-right: 600px;
+   
+}
+.text1{
+   text-align: center;
+   
+}
